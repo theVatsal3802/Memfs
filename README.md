@@ -157,6 +157,20 @@ The following benchmarking steps have been performed on the `memFS` file system.
 
 - The file system uses mutex locks and conditional variables for locking the system whenever critical section has to be accessed.
 
+## Compilation instructions
+
+- Run the makefile named `memFS` using the following command:
+
+```bash
+make all
+```
+
+- Run the executable file
+
+```bash
+make run
+```
+
 ## Some important instructions
 
 - If the `makefile` does not run, then run the following 2 commands in the terminal:

@@ -127,7 +127,7 @@ Parses and validates each command, managing multi-threaded execution where neede
 
 ---
 
-## Benchamrking Statistics
+## Benchmarking Statistics
 
 The following benchmarking steps have been performed on the `memFS` file system. The time in the table is in milliseconds.
 
